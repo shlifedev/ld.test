@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CanvasSizeCorrectInAwakeAndStartScene.unity
+    guid: 44ece8fb068ce4a3d8d20965c1e123a7
+  - enabled: 1
+    path: Assets/NoActiveCameraInSceneDoesNotCrashEditorScene.unity
+    guid: c9fc74f63212f4a7ab8ff88b5f84a2fd
+  - enabled: 1
+    path: Assets/DisabledCanvasScene.unity
+    guid: bc659356ed050434985d99466f19dd12
+  - enabled: 1
+    path: Assets/AspectRatioFitter.unity
+    guid: 44b1347c8a395471fb32c0aec011f51e
+  - enabled: 1
+    path: Assets/ContentSizeFitter.unity
+    guid: b11ac554a7b5e474ea673ac23e7e7b85
+  - enabled: 1
+    path: Assets/LayoutGroup.unity
+    guid: 3e8f9de426db54928b22c3d63e07182c
   m_configObjects: {}
