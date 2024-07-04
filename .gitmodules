@@ -1,3 +1,0 @@
-[submodule "packages/ld.numeric"]
-	path = packages/ld.numeric
-	url = https://github.com/shlifedev/ld.numeric

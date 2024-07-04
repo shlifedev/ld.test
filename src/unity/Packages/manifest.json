@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.shlifedev.numeric": "file:/Users/shlifedev/git.shlifedev/ld.test/packages/ld.numeric/src/unity/Assets/LD.Numeric",
     "com.unity.collab-proxy": "2.4.3",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
