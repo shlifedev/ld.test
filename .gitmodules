@@ -1,0 +1,3 @@
+[submodule "packages/ld.numeric"]
+	path = packages/ld.numeric
+	url = git@github.com:shlifedev/ld.numeric.git
